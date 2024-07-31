@@ -1,16 +1,13 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🔥
 
-<!--
-**Lucky5-org/Lucky5-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é João Victor
 
-Here are some ideas to get you started:
+- estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### caso queira entrar em contato 📫
+
+- j.victor09031@gmail.com
+
+- ![](https://github.com/user-attachments/assets/e40736a1-fc95-49d1-80ee-7181b5307d19)
+
+- eu quando tem Alura ⬆️
